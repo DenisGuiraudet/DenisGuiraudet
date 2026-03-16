@@ -55,7 +55,7 @@ $ git log --oneline --reverse career.log
 a1b2c3d 🌱 Joined Guidap as Frontend Intern
 f4e5d6a 🔧 Expanded into Fullstack & DX
 7c8d9e0 🚀 Stepped up as Lead Frontend Engineer
-b1a2f3c 🏗️ Currently transitioning to Backend Architecture & Infra
+b1a2f3c 🏗️ Transitioning to Backend & Infra
 ```
 
 I write software a lot like I play **SimCity**: plan the grid first, lay strong foundations, and make sure the city doesn't catch fire at 3 AM. Much like rushing the right branch of a **Civ tech tree**, investing early in architecture always pays off in the late game.
