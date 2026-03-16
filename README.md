@@ -12,8 +12,8 @@
 
 <!-- ─── SOCIAL BADGES ─── -->
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF6C2C?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denis-guiraudet/)
-[![GitHub](https://img.shields.io/badge/GitHub-8ACE00?style=for-the-badge&logo=github&logoColor=black)](https://github.com/DenisGuiraudet)
+<a href="https://www.linkedin.com/in/denis-guiraudet/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-FF6C2C?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/DenisGuiraudet" target="_blank"><img src="https://img.shields.io/badge/GitHub-8ACE00?style=for-the-badge&logo=github&logoColor=black" alt="GitHub" /></a>
 
 
 <!-- ─── PROFILE VIEWS ─── -->
@@ -23,7 +23,7 @@
 
 <!-- ─── PIRATE RABBIT MASCOT ─── -->
 
-<a href="https://denis.guiraudet.fr">
+<a href="https://denis.guiraudet.fr" target="_blank">
   <img src="img/mascot-rabbit.png" width="120" alt="Captain Rabbit - Visit my portfolio!" />
 </a>
 
@@ -46,7 +46,7 @@
 
 ### 🧑‍💻 About Me
 
-Hi! I'm Denis, a Fullstack Engineer at **[Guidap](https://www.guidap.com)** in Toulouse, France, where we build a SaaS platform for the leisure industry.
+Hi! I'm Denis, a Fullstack Engineer at **<a href="https://www.guidap.com" target="_blank">Guidap</a>** in Toulouse, France, where we build a SaaS platform for the leisure industry.
 
 I've been here for about 6 years, and the journey looked something like this:
 
@@ -207,7 +207,7 @@ denis@homelab:~/projects$ tree -a
   <img alt="Snake animation" src="https://raw.githubusercontent.com/DenisGuiraudet/DenisGuiraudet/output/github-contribution-grid-snake.svg" />
 </picture>
 
-> 🎮 _Snake animation powered by [Platane/snk](https://github.com/Platane/snk)_
+> 🎮 _Snake animation powered by <a href="https://github.com/Platane/snk" target="_blank">Platane/snk</a>_
 
 </div>
 
@@ -223,8 +223,8 @@ denis@homelab:~/projects$ tree -a
 
 <img src="img/marquee.svg" alt="Whether you want to talk about web architecture, open-source, debate the best One Piece arc, or find out my WoW main, my inbox is always open." />
 
-[![Email](https://img.shields.io/badge/Email_Me-FF6C2C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guiraudet@live.fr)
-[![LinkedIn](https://img.shields.io/badge/Connect-8ACE00?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/denis-guiraudet/)
+<a href="mailto:guiraudet@live.fr" target="_blank"><img src="https://img.shields.io/badge/Email_Me-FF6C2C?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/denis-guiraudet/" target="_blank"><img src="https://img.shields.io/badge/Connect-8ACE00?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn" /></a>
 
 </div>
 
