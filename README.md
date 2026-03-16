@@ -40,10 +40,6 @@
 <!--                              ABOUT ME                             -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<table align="left" width="420">
-<tr>
-<td valign="top">
-
 <div align="center">
 
 ### 🧑‍💻 About Me
@@ -66,17 +62,11 @@ I write software a lot like I play **SimCity**: plan the grid first, lay strong 
 
 When I'm not coding, I'm raiding in **WoW**, watching **One Piece** or **Evangelion**, rolling dice in a **tabletop RPG**, or clutching rounds in **Counter-Strike** 🎮
 
-</td>
-</tr>
-</table>
+---
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!--                             TECH STACK                            -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-
-<table align="right" width="420">
-<tr>
-<td valign="top">
 
 <div align="center">
 
@@ -128,12 +118,6 @@ When I'm not coding, I'm raiding in **WoW**, watching **One Piece** or **Evangel
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)&nbsp;
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)&nbsp;
 ![Antigravity](https://img.shields.io/badge/Antigravity-FF6C2C?style=flat-square&logo=google&logoColor=white)
-
-</td>
-</tr>
-</table>
-
-<br clear="both" />
 
 ---
 
