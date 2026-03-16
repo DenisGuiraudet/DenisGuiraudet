@@ -37,14 +37,18 @@
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                 ABOUT ME + TECH STACK (TABLE LAYOUT)              -->
+<!--                              ABOUT ME                             -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<table>
+<table align="left" width="415">
 <tr>
-<td width="55%" valign="top">
+<td valign="top">
+
+<div align="center">
 
 ### 🧑‍💻 About Me
+
+</div>
 
 Hi! I'm Denis, a Fullstack Engineer at **<a href="https://www.guidap.com" target="_blank">Guidap</a>** in Toulouse, France, where we build a SaaS platform for the leisure industry.
 
@@ -63,9 +67,22 @@ I write software a lot like I play **SimCity**: plan the grid first, lay strong 
 When I'm not coding, I'm raiding in **WoW**, watching **One Piece** or **Evangelion**, rolling dice in a **tabletop RPG**, or clutching rounds in **Counter-Strike** 🎮
 
 </td>
-<td width="45%" valign="top">
+</tr>
+</table>
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                             TECH STACK                            -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<table align="right" width="415">
+<tr>
+<td valign="top">
+
+<div align="center">
 
 ### 🛠️ Tech Stack
+
+</div>
 
 **Frontend**
 
@@ -115,6 +132,8 @@ When I'm not coding, I'm raiding in **WoW**, watching **One Piece** or **Evangel
 </td>
 </tr>
 </table>
+
+<br clear="both" />
 
 ---
 
