@@ -40,7 +40,7 @@
 <!--                              ABOUT ME                             -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<table align="left" width="415">
+<table align="left" width="420">
 <tr>
 <td valign="top">
 
@@ -74,7 +74,7 @@ When I'm not coding, I'm raiding in **WoW**, watching **One Piece** or **Evangel
 <!--                             TECH STACK                            -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<table align="right" width="415">
+<table align="right" width="420">
 <tr>
 <td valign="top">
 
