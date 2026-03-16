@@ -46,7 +46,7 @@
 
 ### 🧑‍💻 About Me
 
-Hi! I'm Denis, a Fullstack Engineer at **[Guidap](https://www.guidap.co)** in Toulouse, France, where we build a SaaS platform for the leisure industry.
+Hi! I'm Denis, a Fullstack Engineer at **[Guidap](https://www.guidap.com)** in Toulouse, France, where we build a SaaS platform for the leisure industry.
 
 I've been here for about 6 years, and the journey looked something like this:
 
