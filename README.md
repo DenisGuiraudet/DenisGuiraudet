@@ -187,7 +187,7 @@ denis@homelab:~/projects$ tree -a
 ### 📊 GitHub Stats
 
 <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenisGuiraudet&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8ACE00&text_color=C9D1D9" alt="Top Languages" />
-<img width="57%" src="https://github-readme-streak-stats.herokuapp.com/?user=DenisGuiraudet&theme=tokyonight&hide_border=true&background=0D1117&ring=8ACE00&fire=FF6C2C&currStreakLabel=8ACE00&sideLabels=C9D1D9&dates=555555" alt="Denis's GitHub Streak" />
+<img width="57%" src="https://github-readme-streak-stats.herokuapp.com/?user=DenisGuiraudet&theme=tokyonight&hide_longest_streak=true&hide_border=true&background=0D1117&ring=8ACE00&fire=FF6C2C&currStreakLabel=8ACE00&sideLabels=C9D1D9&dates=555555" alt="Denis's GitHub Streak" />
 
 </div>
 
@@ -221,7 +221,7 @@ denis@homelab:~/projects$ tree -a
 
 ### 💬 Let's Connect
 
-<marquee behavior="scroll" direction="left" scrollamount="6">Whether you want to talk about <b>web architecture</b>, <b>open-source</b>, debate the best <b>One Piece arc</b>, or find out my <b>WoW main</b>, my inbox is always open.</marquee>
+<img src="img/marquee.svg" alt="Whether you want to talk about web architecture, open-source, debate the best One Piece arc, or find out my WoW main, my inbox is always open." />
 
 [![Email](https://img.shields.io/badge/Email_Me-FF6C2C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guiraudet@live.fr)
 [![LinkedIn](https://img.shields.io/badge/Connect-8ACE00?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/denis-guiraudet/)

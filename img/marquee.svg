@@ -1,0 +1,21 @@
+<svg viewBox="0 0 800 40" width="100%" height="40" xmlns="http://www.w3.org/2000/svg">
+    <style>
+        .text {
+            font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+            font-size: 15px;
+            fill: #C9D1D9;
+        }
+        .bold {
+            font-weight: bold;
+        }
+        @media (prefers-color-scheme: light) {
+            .text {
+                fill: #24292f;
+            }
+        }
+    </style>
+    <text y="25" class="text">
+        ✨ Whether you want to talk about <tspan class="bold">web architecture</tspan>, <tspan class="bold">open-source</tspan>, debate the best <tspan class="bold">One Piece arc</tspan>, or find out my <tspan class="bold">WoW main</tspan>, my inbox is always open! ✨
+        <animate attributeName="x" from="800" to="-800" dur="15s" repeatCount="indefinite" />
+    </text>
+</svg>
