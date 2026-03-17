@@ -28,7 +28,7 @@
 </a>
 
 <!-- TODO: WIP re-enable when portfolio is ready -->
-<!-- **⬆️ Click the captain to visit [Grand Line OS](https://denis.guiraudet.fr) - my pixel-art portfolio! ⬆️** -->
+<!-- **⬆️ Click the captain to visit <a href="https://denis.guiraudet.fr" target="_blank">Grand Line OS</a> - my pixel-art portfolio! ⬆️** -->
 
 <br/>
 
@@ -46,7 +46,7 @@
 
 </div>
 
-Hi! I'm Denis, a Full-Stack Engineer with **8+ years** of professional experience.
+Hi! I'm Denis, a Full-Stack Engineer with a **Master's Degree in IT** and **8+ years** of professional experience.
 
 I write software a lot like I play **SimCity**: plan the grid first, lay strong foundations, and make sure the city doesn't catch fire at 3 AM. Much like rushing the right branch of a **Civ tech tree**, investing early in architecture always pays off in the late game.
 
@@ -65,7 +65,7 @@ When I'm not coding, I'm raiding in **WoW**, watching **Anime**, rolling dice in
 I've spent **8+ years** shipping production code. From slaying legacy monoliths to architecting multi-tenant SaaS platforms from scratch.
 
 <br/>
-<a href="JOURNEY.md"><img src="https://img.shields.io/badge/View_Full_Career_Log_🗺️-FF6C2C?style=for-the-badge&logoColor=white" alt="View Full Career Log" /></a>
+<a href="JOURNEY.md"><img src="https://img.shields.io/badge/View_Full_Career_Log_🗺️-0D1117?style=for-the-badge&logoColor=white" alt="View Full Career Log" /></a>
 
 </div>
 
@@ -97,6 +97,7 @@ I've spent **8+ years** shipping production code. From slaying legacy monoliths 
 ![Bun](https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white)&nbsp;
 ![Hono](https://img.shields.io/badge/Hono-E36002?style=flat-square&logo=hono&logoColor=white)&nbsp;
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)&nbsp;
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)&nbsp;
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)&nbsp;
