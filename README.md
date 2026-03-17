@@ -46,21 +46,28 @@
 
 </div>
 
-Hi! I'm Denis, a Fullstack Engineer at **<a href="https://www.guidap.com" target="_blank">Guidap</a>** in Toulouse, France, where we build a SaaS platform for the leisure industry.
-
-I've been here for about 6 years, and the journey looked something like this:
-
-```bash
-$ git log --oneline --reverse career.log
-a1b2c3d 🌱 Joined Guidap as Frontend Intern
-f4e5d6a 🔧 Expanded into Fullstack & DX
-7c8d9e0 🚀 Stepped up as Lead Frontend Engineer
-b1a2f3c 🏗️ Transitioning to Backend & Infra
-```
+Hi! I'm Denis, a Full-Stack Engineer and Technical Co-Founder with **8+ years** of professional experience.
 
 I write software a lot like I play **SimCity**: plan the grid first, lay strong foundations, and make sure the city doesn't catch fire at 3 AM. Much like rushing the right branch of a **Civ tech tree**, investing early in architecture always pays off in the late game.
 
 When I'm not coding, I'm raiding in **WoW**, watching **One Piece** or **Evangelion**, rolling dice in a **tabletop RPG**, or clutching rounds in **Counter-Strike** 🎮
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                        EPIC GRINDS & CAMPAIGNS                    -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+### 🗺️ The Developer Journey
+
+I've spent **8+ years** shipping production code. From slaying legacy monoliths to architecting multi-tenant SaaS platforms from scratch.
+
+<br/>
+<a href="JOURNEY.md"><img src="https://img.shields.io/badge/View_Full_Career_Log_🗺️-FF6C2C?style=for-the-badge&logoColor=white" alt="View Full Career Log" /></a>
+
+</div>
 
 ---
 
@@ -224,7 +231,7 @@ denis@homelab:~/projects$ tree -a
 
 ### 💬 Let's Connect
 
-<img src="img/marquee.svg" alt="Whether you want to talk about web architecture, open-source, debate the best One Piece arc, or find out my WoW main, my inbox is always open." />
+<img src="img/marquee-get-in-touch.svg" alt="Whether you want to talk about web architecture, open-source, debate the best One Piece arc, or find out my WoW main, my inbox is always open." />
 
 <a href="mailto:guiraudet@live.fr" target="_blank"><img src="https://img.shields.io/badge/Email_Me-FF6C2C?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://www.linkedin.com/in/denis-guiraudet/" target="_blank"><img src="https://img.shields.io/badge/Connect-8ACE00?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn" /></a>
