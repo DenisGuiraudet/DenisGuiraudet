@@ -15,7 +15,6 @@
 <a href="https://www.linkedin.com/in/denis-guiraudet/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-FF6C2C?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://github.com/DenisGuiraudet" target="_blank"><img src="https://img.shields.io/badge/GitHub-8ACE00?style=for-the-badge&logo=github&logoColor=black" alt="GitHub" /></a>
 
-
 <!-- ─── PROFILE VIEWS ─── -->
 
 ![Profile Views](https://komarev.com/ghpvc/?username=DenisGuiraudet&style=for-the-badge&color=8ACE00&label=PROFILE+VIEWS)
@@ -27,8 +26,8 @@
   <img src="img/mascot-rabbit.png" width="120" alt="Captain Rabbit - Visit my portfolio!" />
 </a>
 
-<!-- TODO: WIP re-enable when portfolio is ready -->
-<!-- **⬆️ Click the captain to visit <a href="https://denis.guiraudet.fr" target="_blank">Grand Line OS</a> - my pixel-art portfolio! ⬆️** -->
+<!-- TODO: WIP re-enable when portfolio is ready
+**⬆️ Click the captain to visit <a href="https://denis.guiraudet.fr" target="_blank">Grand Line OS</a> - my pixel-art portfolio! ⬆️** -->
 
 <br/>
 
