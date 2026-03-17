@@ -46,11 +46,11 @@
 
 </div>
 
-Hi! I'm Denis, a Full-Stack Engineer and Technical Co-Founder with **8+ years** of professional experience.
+Hi! I'm Denis, a Full-Stack Engineer with **8+ years** of professional experience.
 
 I write software a lot like I play **SimCity**: plan the grid first, lay strong foundations, and make sure the city doesn't catch fire at 3 AM. Much like rushing the right branch of a **Civ tech tree**, investing early in architecture always pays off in the late game.
 
-When I'm not coding, I'm raiding in **WoW**, watching **One Piece** or **Evangelion**, rolling dice in a **tabletop RPG**, or clutching rounds in **Counter-Strike** 🎮
+When I'm not coding, I'm raiding in **WoW**, watching **Anime**, rolling dice in a **tabletop RPG**, or clutching rounds in **Counter-Strike** 🎮
 
 ---
 
