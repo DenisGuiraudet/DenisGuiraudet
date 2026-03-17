@@ -16,7 +16,7 @@
 
 <div align="center">
 
-### <img src="https://img.shields.io/badge/2025_-_Present-8ACE00?style=for-the-badge&logo=rocket&logoColor=FF6C2C" align="top" /> ZinZinTeam
+### <img src="https://img.shields.io/badge/2025_-_Present-FF6C2C?style=for-the-badge&logo=rocket&logoColor=8ACE00" align="top" /> ZinZinTeam
 **Full-Stack Engineer (Founding Team)**
 
 </div>
