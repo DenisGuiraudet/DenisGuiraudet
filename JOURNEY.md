@@ -22,7 +22,7 @@
 
 **🧙‍♂️ Top Engineering Achievements:**
 - **OpenAPI & Hono Core:** Built an OpenAPI-first REST API scaling seamlessly to the frontend via Zod schemas and automatic Scalar docs.
-- **React Native Mobile App:** Constructed a schema-driven `UIForm` handling heavy logic (markdown inputs, keyboard chaining, native accessories).
+- **React Native Architecture:** Built a pristine mobile codebase from scratch. Enforced strict folder scaling, atomic components, a unified Tailwind design system, and Storybook for elite code quality.
 - **Elite Developer Experience:** Wrote an interactive `bun setup` CLI wizard. It clones, sets up SSL certs, syncs environments, and starts the entire stack with a single command.
 
 <br/>
@@ -37,7 +37,7 @@
 > **The Great Refactor** <br/>
 > Climbed the ranks from frontend intern to leading a massive engineering transformation: strangling a PHP monolith and routing its veins into a decoupled V2 ecosystem.
 
-**⚔️ The Final Bosses Defeated:**
+**⚔️ Major Encounters Cleared:**
 - **Embedded E-Commerce Web Component:** Engineered a standalone cart system that clients install on their websites as a web component. It autonomously loads the product catalog, drives the complete Add-to-Cart flow, and processes payments securely.
 - **Point of Sale (POS) Engine:** Built the entire cash register system from scratch. Handled the cart lifecycle, barcode ticket generation, virtual receipt printing, and complex payment loops (Ticket Restaurant, refunds).
 - **Keycloak SSO Architecture:** Designed the migration path and tenant structures to transition legacy monolith users to Keycloak, prior to the Frontend 2.0 project being sunset.
