@@ -11,12 +11,12 @@
 ---
 
 <!-- ============================================== -->
-<!-- ZINZINTEAM SECTION                             -->
+<!-- GUIDAP V2 SECTION                             -->
 <!-- ============================================== -->
 
 <div align="center">
 
-### <img src="https://img.shields.io/badge/2025_-_Present-FF6C2C?style=for-the-badge&logo=rocket&logoColor=8ACE00" align="top" /> ZinZinTeam
+### <img src="https://img.shields.io/badge/2025_-_Present-FF6C2C?style=for-the-badge&logo=rocket&logoColor=8ACE00" align="top" /> Guidap V2
 **Full-Stack Engineer (Founding Team)**
 
 </div>
@@ -37,8 +37,8 @@
 
 | Year | Impact |
 |:---:|---|
-| <img src="https://img.shields.io/badge/2025-0D1117?style=for-the-badge&logoColor=FF6C2C" /> | **The Foundations**<br/><br/>Drafted the foundational product and technical specifications for the upcoming ZinZinTeam platform.<br/>&nbsp; |
-| <img src="https://img.shields.io/badge/2026-0D1117?style=for-the-badge&logoColor=FF6C2C" /> | **The Next Era**<br/><br/>Acted as the technical bridge aligning product specs with absolute zero-to-one implementation for the new ZinZinTeam multi-tenant app ecosystem. |
+| <img src="https://img.shields.io/badge/2025-0D1117?style=for-the-badge&logoColor=FF6C2C" /> | **The Foundations**<br/><br/>Drafted the foundational product and technical specifications for the upcoming Guidap V2 platform.<br/>&nbsp; |
+| <img src="https://img.shields.io/badge/2026-0D1117?style=for-the-badge&logoColor=FF6C2C" /> | **The Next Era**<br/><br/>Acted as the technical bridge aligning product specs with absolute zero-to-one implementation for the new Guidap V2 multi-tenant app ecosystem. |
 </details>
 
 <br/>
