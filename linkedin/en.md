@@ -13,7 +13,6 @@ Full-Stack Engineer · 8+ Years Experience · TypeScript · Vue · NestJS · Rea
 ## About
 
 Full-Stack Engineer with 8+ years scaling web apps — from escaping legacy systems to architecting multi-tenant SaaS.
-
 I follow a docs-driven, specs-first approach (API contracts, TypeScript interfaces) to ensure clean boundaries before writing business logic.
 
 Core principles: Clean architecture, frictionless DX, and solid CI/CD.
@@ -26,48 +25,99 @@ I use AI tools as daily multipliers, but system design and architecture stay min
 ### Full-Stack Engineer (Founding Team) — Guidap V2
 **May 2025 – Present**
 
-Architected the product and tech stack from day one.
-• Docs-first REST API (Hono, Zod)
-• React Native app from scratch (Tailwind, Storybook, atomic components)
-• Unified on-boarding CLI in Bun (SSL, sync environments, complete stack boot)
-• Obsessed with frictionless DX driven by strict API contracts
+Product and technical architecture from scratch for a multi-tenant SaaS platform.
+• OpenAPI-first REST API (Hono, Zod, auto-generated Scalar docs)
+• React Native mobile app (Tailwind, Storybook, atomic components)
+• Interactive onboarding CLI in Bun (SSL setup, env sync, full stack boot)
 
-**Tech:** TypeScript, Hono, Bun, React Native, Tailwind CSS, PostgreSQL
+**Tech:** TypeScript, Hono, Bun, React Native, Tailwind CSS, MongoDB, Storybook
 
 ---
 
 ### Frontend Tech Lead / Full-Stack Engineer — Guidap
-**Sep 2018 – May 2025** · 6 yrs 8 mos
+**July 2021 – April 2025**
 
-Contributed to the technical transition from a PHP monolith to a decoupled V2 Vue 3 ecosystem.
-• Built an embeddable e-commerce web component for B2B/B2C clients
-• Created the entire Point of Sale (POS) engine with complex Adyen payment flows
-• Headed the Frontend monorepo (Vue 3, Vite, Nx) and its shared UI kit
-• Engineered Keycloak SSO migration and localized Docker tooling
+Transition from a PHP monolith to a decoupled V2 ecosystem (Vue 3).
+• Embeddable e-commerce web component for B2B/B2C (catalog, cart, autonomous payment)
+• Full POS engine: cart lifecycle, barcode tickets, Adyen payment flows (refunds, meal vouchers)
+• Led the Frontend monorepo (Vue 3, Vite, Nx) and shared UI kit
+• Keycloak SSO migration and Docker DX optimization
 
 **Tech:** Vue 3, Nuxt, TypeScript, Vite, Nx, NestJS, PostgreSQL, Docker, Keycloak, Adyen
 
 ---
 
-### Full-Stack Developer (Apprenticeship) — AirSaas · IoT Valley
-**Sep 2019 – Sep 2021** · 2 yrs
+### Full-Stack Engineer (Freelance) — Guidap
+**April 2021**
+Toulouse, Occitanie, France
 
-Full-stack development for a PM SaaS platform.
-• Built platform-wide Algolia search integration
-• Shipped core features using React and Django
+Booking module with shopping cart for the B2B platform.
+
+**Tech:** Vue.js, NestJS, JavaScript
+
+---
+
+### Full-Stack Developer (Apprenticeship) — AirSaas
+**January 2021 – June 2021**
+France
+
+Full-stack development on a project management SaaS.
+• Platform-wide Algolia search integration
+• Core features in React and Django
 
 **Tech:** React, Django, Python, Algolia
 
 ---
 
-### Software Engineering Intern — ISAE-SUPAERO
-**2017**
+### Full-Stack Engineer (Freelance) — IoT Valley
+**September 2020 – December 2020**
+Labège, Occitanie, France
 
-Worked on flight management software in a research setting.
-• Added new VBA features to legacy systems
-• Implemented 3D graphics in OpenGL
+Full-stack development in React and Django.
 
-**Tech:** VBA, OpenGL
+**Tech:** React, Django, JavaScript
+
+---
+
+### Full-Stack Developer (Apprenticeship) — IoT Valley
+**September 2019 – August 2020**
+France
+
+Full-stack development in React and Django.
+
+**Tech:** React, Django, JavaScript
+
+---
+
+### Front-End Developer (Apprenticeship) — Guidap
+**September 2018 – July 2019**
+Labège, Occitanie, France
+
+Core booking logic and daily operations for the PHP monolith (Vue.js).
+
+**Tech:** Vue.js, NestJS, JavaScript
+
+---
+
+### Front-End Developer (Internship) — Guidap
+**May 2018 – August 2018**
+France
+
+Front-end views and components (Vue.js) within the PHP monolith.
+
+**Tech:** Vue.js, NestJS, JavaScript
+
+---
+
+### Software Developer (Internship) — ISAE-SUPAERO
+**April 2017 – June 2017**
+France
+
+Improvement of a flight management software in a research environment.
+• New features in Visual Basic on an existing codebase
+• 3D graphics rendering in OpenGL
+
+**Tech:** Visual Basic, OpenGL
 
 ---
 
@@ -75,7 +125,7 @@ Worked on flight management software in a research setting.
 
 ### Master ICE — Collaborative IT in Enterprise
 **Université Toulouse Jean Jaurès** · 2019 – 2021
-Software engineering and enterprise systems architecture.
+Software engineering, enterprise systems, and collaborative technologies.
 
 ---
 
@@ -94,10 +144,10 @@ Algorithms, databases, networking, and software foundations.
 ## Projects
 
 ### Personal Portfolio Website
-16-bit retro OS immersive website in Nuxt. → https://denis.guiraudet.fr
+Gamified pixel-art portfolio (16-bit retro OS) in Nuxt. → https://denis.guiraudet.fr
 
 ### Self-Hosted Minecraft Server
-Automated bare-metal deployment (Ansible, Docker).
+Automated bare-metal deployment on OVH (Ansible, Docker, BlueMap, Portainer, Uptime Kuma).
 
 ### Self-Hosted Media Center
-Complete automated self-hosted stack (Jellyfin, *arr, Traefik).
+Complete self-hosted stack (Jellyfin, Sonarr, Radarr, Bazarr, Traefik, Grafana, Prometheus).

@@ -25,48 +25,99 @@ J'utilise l'IA comme multiplicateur de force au quotidien, mais la conception du
 ### Ingénieur Full-Stack (Équipe fondatrice) — Guidap V2
 **Mai 2025 – Présent**
 
-Création de la vision produit et de l'architecture technique from scratch.
-• API REST spec-first (Hono, Zod)
+Architecture produit et technique from scratch pour un SaaS multi-tenant.
+• API REST OpenAPI-first (Hono, Zod, documentation Scalar auto-générée)
 • App mobile React Native (Tailwind, Storybook, composants atomiques)
-• CLI on-boarding unifié en Bun (SSL, sync environments, boot complet de la stack)
-• Focus sur une DX parfaite guidée par des contrats d'API stricts
+• CLI d'onboarding interactif en Bun (SSL, sync environnements, boot complet de la stack)
 
-**Tech :** TypeScript, Hono, Bun, React Native, Tailwind CSS, PostgreSQL
+**Tech :** TypeScript, Hono, Bun, React Native, Tailwind CSS, MongoDB, Storybook
 
 ---
 
 ### Tech Lead Frontend / Ingénieur Full-Stack — Guidap
-**Sep 2018 – Mai 2025** · 6 ans 8 mois
+**Juillet 2021 – Avril 2025**
 
-Contribution à la transition d'un monolithe PHP vers un écosystème V2 découplé (Vue 3).
-• Développement d'un web component e-commerce embarqué B2B/B2C (panier autonome)
-• Création intégrale du moteur de caisse (POS) avec intégration des paiements Adyen
-• Pilotage du monorepo Frontend (Vue 3, Vite, Nx) et de son UI kit partagé
-• Migration SSO vers Keycloak et optimisation de la DX via Docker
+Transition d'un monolithe PHP vers un écosystème V2 découplé (Vue 3).
+• Web component e-commerce embarqué B2B/B2C (catalogue, panier, paiement autonome)
+• Moteur de caisse (POS) complet : cycle panier, tickets code-barres, flux Adyen (remboursements, Ticket Restaurant)
+• Pilotage du monorepo Frontend (Vue 3, Vite, Nx) et UI kit partagé
+• Migration SSO Keycloak et optimisation DX Docker
 
 **Tech :** Vue 3, Nuxt, TypeScript, Vite, Nx, NestJS, PostgreSQL, Docker, Keycloak, Adyen
 
 ---
 
-### Développeur Full-Stack (Alternance) — AirSaas · IoT Valley
-**Sep 2019 – Sep 2021** · 2 ans
+### Ingénieur Full-Stack (Freelance) — Guidap
+**Avril 2021**
+Toulouse, Occitanie, France
 
-Développement full-stack au sein d'un SaaS de gestion de projet.
-• Intégration du moteur de recherche Algolia à l'échelle de la plateforme
-• Implémentation de fonctionnalités clés en React et Django
+Module de réservation avec panier pour la plateforme B2B.
+
+**Tech :** Vue.js, NestJS, JavaScript
+
+---
+
+### Développeur Full-Stack (Alternance) — AirSaas
+**Janvier 2021 – Juin 2021**
+France
+
+Développement full-stack sur un SaaS de gestion de projet.
+• Intégration Algolia à l'échelle de la plateforme
+• Fonctionnalités clés en React et Django
 
 **Tech :** React, Django, Python, Algolia
 
 ---
 
-### Stagiaire Ingénieur Logiciel — ISAE-SUPAERO
-**2017**
+### Ingénieur Full-Stack (Freelance) — IoT Valley
+**Septembre 2020 – Décembre 2020**
+Labège, Occitanie, France
 
-Développement sur un logiciel de gestion de vol en environnement de recherche.
-• Implémentation de nouvelles fonctionnalités VBA
-• Rendu graphique 3D OpenGL
+Développement full-stack en React et Django.
 
-**Tech :** VBA, OpenGL
+**Tech :** React, Django, JavaScript
+
+---
+
+### Développeur Full-Stack (Alternance) — IoT Valley
+**Septembre 2019 – Août 2020**
+France
+
+Développement full-stack en React et Django.
+
+**Tech :** React, Django, JavaScript
+
+---
+
+### Développeur Front-End (Alternance) — Guidap
+**Septembre 2018 – Juillet 2019**
+Labège, Occitanie, France
+
+Mise en place de la logique de réservation et des opérations quotidiennes du monolithe PHP (Vue.js).
+
+**Tech :** Vue.js, NestJS, JavaScript
+
+---
+
+### Développeur Front-End (Stage) — Guidap
+**Mai 2018 – Août 2018**
+France
+
+Développement de vues et composants front-end (Vue.js) au sein du monolithe PHP.
+
+**Tech :** Vue.js, NestJS, JavaScript
+
+---
+
+### Développeur Logiciels (Stage) — ISAE-SUPAERO
+**Avril 2017 – Juin 2017**
+France
+
+Amélioration d'un logiciel de gestion des vols en environnement de recherche.
+• Développement de nouvelles fonctionnalités en Visual Basic
+• Rendu graphique 3D en OpenGL
+
+**Tech :** Visual Basic, OpenGL
 
 ---
 
@@ -93,10 +144,10 @@ Algorithmique, bases de données, réseaux et développement logiciel.
 ## Projets
 
 ### Site Portfolio Personnel
-OS de bureau rétro 16-bit immersif en Nuxt. → https://denis.guiraudet.fr
+Portfolio gamifié pixel-art (OS rétro 16-bit) en Nuxt. → https://denis.guiraudet.fr
 
 ### Serveur Minecraft Auto-Hébergé
-Hébergement automatisé (Ansible, Docker) sur bare-metal OVH.
+Déploiement automatisé sur bare-metal OVH (Ansible, Docker, BlueMap, Portainer, Uptime Kuma).
 
 ### Centre Multimédia Auto-Hébergé
-Stack complète auto-hébergée (Jellyfin, *arr, Traefik).
+Stack auto-hébergée complète (Jellyfin, Sonarr, Radarr, Bazarr, Traefik, Grafana, Prometheus).
