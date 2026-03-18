@@ -95,7 +95,7 @@ Labège, Occitanie, France
 
 Mise en place de la logique de réservation et des opérations quotidiennes du monolithe PHP (Vue.js).
 
-**Tech :** Vue.js, NestJS, JavaScript
+**Tech :** Vue.js, PHP, JavaScript
 
 ---
 
@@ -105,7 +105,7 @@ France
 
 Développement de vues et composants front-end (Vue.js) au sein du monolithe PHP.
 
-**Tech :** Vue.js, NestJS, JavaScript
+**Tech :** Vue.js, PHP, JavaScript
 
 ---
 

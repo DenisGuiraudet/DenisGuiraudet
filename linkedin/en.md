@@ -95,7 +95,7 @@ Labège, Occitanie, France
 
 Core booking logic and daily operations for the PHP monolith (Vue.js).
 
-**Tech:** Vue.js, NestJS, JavaScript
+**Tech:** Vue.js, PHP, JavaScript
 
 ---
 
@@ -105,7 +105,7 @@ France
 
 Front-end views and components (Vue.js) within the PHP monolith.
 
-**Tech:** Vue.js, NestJS, JavaScript
+**Tech:** Vue.js, PHP, JavaScript
 
 ---
 
