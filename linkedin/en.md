@@ -27,7 +27,7 @@ I use AI tools as daily multipliers, but system design and architecture stay min
 **May 2025 – Present**
 
 Architected the product and tech stack from day one.
-• Docs-first REST API (Hono, Zod, Scalar)
+• Docs-first REST API (Hono, Zod)
 • React Native app from scratch (Tailwind, Storybook, atomic components)
 • Unified on-boarding CLI in Bun (SSL, sync environments, complete stack boot)
 • Obsessed with frictionless DX driven by strict API contracts
@@ -39,7 +39,7 @@ Architected the product and tech stack from day one.
 ### Frontend Tech Lead / Full-Stack Engineer — Guidap
 **Sep 2018 – May 2025** · 6 yrs 8 mos
 
-Led the technical transition from a PHP monolith to a decoupled V2 Vue 3 ecosystem.
+Contributed to the technical transition from a PHP monolith to a decoupled V2 Vue 3 ecosystem.
 • Built an embeddable e-commerce web component for B2B/B2C clients
 • Created the entire Point of Sale (POS) engine with complex Adyen payment flows
 • Headed the Frontend monorepo (Vue 3, Vite, Nx) and its shared UI kit

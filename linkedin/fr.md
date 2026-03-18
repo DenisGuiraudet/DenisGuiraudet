@@ -26,9 +26,9 @@ J'utilise l'IA comme multiplicateur de force au quotidien, mais la conception du
 **Mai 2025 – Présent**
 
 Création de la vision produit et de l'architecture technique from scratch.
-• API REST spec-first (Hono, Zod, Scalar)
+• API REST spec-first (Hono, Zod)
 • App mobile React Native (Tailwind, Storybook, composants atomiques)
-• CLI on-boarding unifié en Bun (SSL, sync, boot complet de la stack)
+• CLI on-boarding unifié en Bun (SSL, sync environments, boot complet de la stack)
 • Focus sur une DX parfaite guidée par des contrats d'API stricts
 
 **Tech :** TypeScript, Hono, Bun, React Native, Tailwind CSS, PostgreSQL
@@ -38,7 +38,7 @@ Création de la vision produit et de l'architecture technique from scratch.
 ### Tech Lead Frontend / Ingénieur Full-Stack — Guidap
 **Sep 2018 – Mai 2025** · 6 ans 8 mois
 
-Lead technique sur la transition d'un monolithe PHP vers un écosystème V2 découplé (Vue 3).
+Contribution à la transition d'un monolithe PHP vers un écosystème V2 découplé (Vue 3).
 • Développement d'un web component e-commerce embarqué B2B/B2C (panier autonome)
 • Création intégrale du moteur de caisse (POS) avec intégration des paiements Adyen
 • Pilotage du monorepo Frontend (Vue 3, Vite, Nx) et de son UI kit partagé
