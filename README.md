@@ -181,6 +181,7 @@ denis@homelab:~/projects$ tree -a
 │   └── stack       -> "Docker, BlueMap, Portainer, Uptime Kuma, HTTPS"
 │
 └── 🎬 media-center/
+    ├── deployment  -> "Complete local stack"
     ├── services    -> "Jellyfin, Sonarr, Radarr, Bazarr, Transmission (VPN-routed)"
     └── monitoring  -> "Traefik, Grafana, Prometheus"
 

@@ -22,7 +22,7 @@ J'utilise l'IA comme multiplicateur de force au quotidien, mais la conception du
 
 ## Expérience
 
-### Ingénieur Full-Stack (Équipe fondatrice) — Guidap V2
+### Ingénieur Full-Stack — Guidap V2
 **Mai 2025 – Présent**
 
 Architecture produit et technique from scratch pour un SaaS multi-tenant.
@@ -47,16 +47,6 @@ Transition d'un monolithe PHP vers un écosystème V2 découplé (Vue 3).
 
 ---
 
-### Ingénieur Full-Stack (Freelance) — Guidap
-**Avril 2021**
-Toulouse, Occitanie, France
-
-Module de réservation avec panier pour la plateforme B2B.
-
-**Tech :** Vue.js, NestJS, JavaScript
-
----
-
 ### Développeur Full-Stack (Alternance) — AirSaas
 **Janvier 2021 – Juin 2021**
 France
@@ -69,8 +59,18 @@ Développement full-stack sur un SaaS de gestion de projet.
 
 ---
 
-### Ingénieur Full-Stack (Freelance) — IoT Valley
-**Septembre 2020 – Décembre 2020**
+### Ingénieur Full-Stack (Freelance) — Guidap
+**Avril 2021**
+Toulouse, Occitanie, France
+
+Module de réservation avec panier pour la plateforme B2B.
+
+**Tech :** Vue.js, NestJS, JavaScript
+
+---
+
+### Ingénieur Full-Stack (Freelance & Alternance) — IoT Valley
+**Septembre 2019 – Décembre 2020**
 Labège, Occitanie, France
 
 Développement full-stack en React et Django.
@@ -79,31 +79,12 @@ Développement full-stack en React et Django.
 
 ---
 
-### Développeur Full-Stack (Alternance) — IoT Valley
-**Septembre 2019 – Août 2020**
-France
-
-Développement full-stack en React et Django.
-
-**Tech :** React, Django, JavaScript
-
----
-
-### Développeur Front-End (Alternance) — Guidap
-**Septembre 2018 – Juillet 2019**
+### Développeur Front-End (Alternance & Stage) — Guidap
+**Mai 2018 – Juillet 2019**
 Labège, Occitanie, France
 
-Mise en place de la logique de réservation et des opérations quotidiennes du monolithe PHP (Vue.js).
-
-**Tech :** Vue.js, PHP, JavaScript
-
----
-
-### Développeur Front-End (Stage) — Guidap
-**Mai 2018 – Août 2018**
-France
-
-Développement de vues et composants front-end (Vue.js) au sein du monolithe PHP.
+• Mise en place de la logique de réservation et des opérations quotidiennes du monolithe PHP (Vue.js).
+• Développement de vues et composants front-end (Vue.js) au sein du monolithe PHP.
 
 **Tech :** Vue.js, PHP, JavaScript
 
@@ -131,11 +112,11 @@ Ingénierie logicielle, systèmes d'entreprise et technologies collaboratives.
 
 ### Licence MIASHS
 **Université Toulouse Jean Jaurès** · 2015 – 2018
-Mathématiques et Informatique Appliquées aux Sciences Humaines et Sociales.
+Mathématiques et Informatique.
 
 ---
 
-### DUT Informatique (IUT)
+### IUT Informatique
 **2015 – 2017**
 Algorithmique, bases de données, réseaux et développement logiciel.
 
@@ -146,8 +127,11 @@ Algorithmique, bases de données, réseaux et développement logiciel.
 ### Site Portfolio Personnel
 Portfolio gamifié pixel-art (OS rétro 16-bit) en Nuxt. → https://denis.guiraudet.fr
 
-### Serveur Minecraft Auto-Hébergé
+### Serveur Minecraft
 Déploiement automatisé sur bare-metal OVH (Ansible, Docker, BlueMap, Portainer, Uptime Kuma).
 
-### Centre Multimédia Auto-Hébergé
-Stack auto-hébergée complète (Jellyfin, Sonarr, Radarr, Bazarr, Traefik, Grafana, Prometheus).
+### Centre Multimédia
+Stack locale complète (Jellyfin, Sonarr, Radarr, Bazarr, Traefik, Grafana, Prometheus).
+
+### Projet Bac "Acquisition et restitution des données d'une voiture électrique"
+Application Android traitant les données de télémétrie embarquée d'un véhicule, incluant vitesse, puissance et batterie (Arduino, MIT App Inventor).

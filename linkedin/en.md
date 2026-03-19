@@ -22,7 +22,7 @@ I use AI tools as daily multipliers, but system design and architecture stay min
 
 ## Experience
 
-### Full-Stack Engineer (Founding Team) — Guidap V2
+### Full-Stack Engineer — Guidap V2
 **May 2025 – Present**
 
 Product and technical architecture from scratch for a multi-tenant SaaS platform.
@@ -47,16 +47,6 @@ Transition from a PHP monolith to a decoupled V2 ecosystem (Vue 3).
 
 ---
 
-### Full-Stack Engineer (Freelance) — Guidap
-**April 2021**
-Toulouse, Occitanie, France
-
-Booking module with shopping cart for the B2B platform.
-
-**Tech:** Vue.js, NestJS, JavaScript
-
----
-
 ### Full-Stack Developer (Apprenticeship) — AirSaas
 **January 2021 – June 2021**
 France
@@ -69,8 +59,18 @@ Full-stack development on a project management SaaS.
 
 ---
 
-### Full-Stack Engineer (Freelance) — IoT Valley
-**September 2020 – December 2020**
+### Full-Stack Engineer (Freelance) — Guidap
+**April 2021**
+Toulouse, Occitanie, France
+
+Booking module with shopping cart for the B2B platform.
+
+**Tech:** Vue.js, NestJS, JavaScript
+
+---
+
+### Full-Stack Engineer (Freelance & Apprenticeship) — IoT Valley
+**September 2019 – December 2020**
 Labège, Occitanie, France
 
 Full-stack development in React and Django.
@@ -79,31 +79,12 @@ Full-stack development in React and Django.
 
 ---
 
-### Full-Stack Developer (Apprenticeship) — IoT Valley
-**September 2019 – August 2020**
-France
-
-Full-stack development in React and Django.
-
-**Tech:** React, Django, JavaScript
-
----
-
-### Front-End Developer (Apprenticeship) — Guidap
-**September 2018 – July 2019**
+### Front-End Developer (Apprenticeship & Internship) — Guidap
+**May 2018 – July 2019**
 Labège, Occitanie, France
 
-Core booking logic and daily operations for the PHP monolith (Vue.js).
-
-**Tech:** Vue.js, PHP, JavaScript
-
----
-
-### Front-End Developer (Internship) — Guidap
-**May 2018 – August 2018**
-France
-
-Front-end views and components (Vue.js) within the PHP monolith.
+• Core booking logic and daily operations for the PHP monolith (Vue.js).
+• Front-end views and components (Vue.js) within the PHP monolith.
 
 **Tech:** Vue.js, PHP, JavaScript
 
@@ -131,11 +112,11 @@ Software engineering, enterprise systems, and collaborative technologies.
 
 ### Licence MIASHS
 **Université Toulouse Jean Jaurès** · 2015 – 2018
-Math and Computer Science applied to Social Sciences.
+Math and Computer Science.
 
 ---
 
-### DUT Informatique (IUT)
+### IUT Informatique
 **2015 – 2017**
 Algorithms, databases, networking, and software foundations.
 
@@ -146,8 +127,11 @@ Algorithms, databases, networking, and software foundations.
 ### Personal Portfolio Website
 Gamified pixel-art portfolio (16-bit retro OS) in Nuxt. → https://denis.guiraudet.fr
 
-### Self-Hosted Minecraft Server
+### Minecraft Server
 Automated bare-metal deployment on OVH (Ansible, Docker, BlueMap, Portainer, Uptime Kuma).
 
-### Self-Hosted Media Center
-Complete self-hosted stack (Jellyfin, Sonarr, Radarr, Bazarr, Traefik, Grafana, Prometheus).
+### Media Center
+Complete local stack (Jellyfin, Sonarr, Radarr, Bazarr, Traefik, Grafana, Prometheus).
+
+### Project Bac "Acquisition et restitution des données d'une voiture électrique"
+Android application processing vehicle telemetry data from onboard sensors, including speed, power, and battery remaining (Arduino, MIT App Inventor).
