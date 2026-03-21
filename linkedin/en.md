@@ -1,9 +1,5 @@
 # LinkedIn Profile — English
 
-> Copy-paste each section below into the corresponding LinkedIn field.
-
----
-
 ## Headline
 
 Full-Stack Engineer · 8+ Years Experience · TypeScript · Vue · NestJS · React Native
