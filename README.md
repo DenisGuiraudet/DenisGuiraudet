@@ -26,8 +26,7 @@
   <img src="img/mascot-rabbit.png" width="120" alt="Captain Rabbit - Visit my portfolio!" />
 </a>
 
-<!-- TODO: WIP re-enable when portfolio is ready
-**⬆️ Click the captain to visit <a href="https://denis.guiraudet.fr" target="_blank">Grand Line OS</a> - my pixel-art portfolio! ⬆️** -->
+**⬆️ Click the captain to visit <a href="https://denis.guiraudet.fr" target="_blank">Grand Line OS</a> - my pixel-art portfolio! ⬆️**
 
 <br/>
 
