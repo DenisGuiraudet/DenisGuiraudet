@@ -2,13 +2,13 @@
 
 ## Titre (Headline)
 
-Ingénieur Full-Stack · 8+ ans d'expérience · TypeScript · Vue · NestJS · React Native
+Ingénieur Full-Stack · 7+ ans d'expérience · TypeScript · Vue · NestJS · React Native
 
 ---
 
 ## Infos (About)
 
-Ingénieur Full-Stack (8+ ans d'expérience). De la modernisation legacy à la création de SaaS multi-tenant.
+Ingénieur Full-Stack (7+ ans d'expérience). De la modernisation legacy à la création de SaaS multi-tenant.
 Mon approche est "spec-first" (contrats d'API, TypeScript) pour garantir des architectures propres, modulaires et pérennes, avant d'écrire la logique métier.
 
 Principes : Clean architecture, DX (expérience développeur) fluide, et CI/CD solide.

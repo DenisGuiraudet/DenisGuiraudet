@@ -2,13 +2,13 @@
 
 ## Headline
 
-Full-Stack Engineer · 8+ Years Experience · TypeScript · Vue · NestJS · React Native
+Full-Stack Engineer · 7+ Years Experience · TypeScript · Vue · NestJS · React Native
 
 ---
 
 ## About
 
-Full-Stack Engineer with 8+ years scaling web apps — from escaping legacy systems to architecting multi-tenant SaaS.
+Full-Stack Engineer with 7+ years scaling web apps — from escaping legacy systems to architecting multi-tenant SaaS.
 I follow a docs-driven, specs-first approach (API contracts, TypeScript interfaces) to ensure clean boundaries before writing business logic.
 
 Core principles: Clean architecture, frictionless DX, and solid CI/CD.

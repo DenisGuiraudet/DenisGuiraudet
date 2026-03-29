@@ -44,7 +44,7 @@
 
 </div>
 
-Hi! I'm Denis, a Full-Stack Engineer with a **Master's Degree in IT** and **8+ years** of professional experience.
+Hi! I'm Denis, a Full-Stack Engineer with a **Master's Degree in IT** and **7+ years** of professional experience.
 
 I write software a lot like I play **SimCity**: plan the grid first, lay strong foundations, and make sure the city doesn't catch fire at 3 AM. Much like rushing the right branch of a **Civ tech tree**, investing early in architecture always pays off in the late game.
 
@@ -60,7 +60,7 @@ When I'm not coding, I'm raiding in **WoW**, watching **Anime**, rolling dice in
 
 ### 🗺️ The Developer Journey
 
-I've spent **8+ years** shipping production code. From slaying legacy monoliths to architecting multi-tenant SaaS platforms from scratch.
+I've spent **7+ years** shipping production code. From slaying legacy monoliths to architecting multi-tenant SaaS platforms from scratch.
 
 <br/>
 <a href="JOURNEY.md"><img src="https://img.shields.io/badge/View_Full_Career_Log_🗺️-0D1117?style=for-the-badge&logoColor=white" alt="View Full Career Log" /></a>

@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=4000&pause=1000&color=8ACE00&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=The+Developer+Journey;8%2B+Years+of+Shipping" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=4000&pause=1000&color=8ACE00&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=The+Developer+Journey;7%2B+Years+of+Shipping" alt="Typing SVG" />
 
 *Everything from legacy system demolition to architecting the next era of multi-tenant SaaS.*
 
@@ -67,7 +67,7 @@
 - **Frontend 2.0 Monorepo:** Spearheaded the escape from legacy PHP views into a modern **Vue 3 & Vite** architecture, enforcing a strict UI kit.
 
 <details>
-<summary><b>📜 Expand for 8-Year Phase Log</b></summary>
+<summary><b>📜 Expand for 7-Year Phase Log</b></summary>
 <br/>
 
 | Year | Impact |
