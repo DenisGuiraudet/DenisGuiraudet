@@ -26,7 +26,7 @@
   <img src="img/mascot-rabbit.png" width="120" alt="Captain Rabbit - Visit my portfolio!" />
 </a>
 
-**⬆️ Click the captain to visit <a href="https://denis.guiraudet.fr" target="_blank">Personal Website</a> - my pixel-art portfolio! ⬆️**
+**⬆️ Click the captain to visit my <a href="https://denis.guiraudet.fr" target="_blank">Personal Website</a> - my pixel-art portfolio! ⬆️**
 
 <br/>
 
